@@ -16,7 +16,7 @@ This is a full stack JavaScript Voting App.
 - I can delete polls that I decide I dont want anymore by clicking on remove icon (or delete button) in the list.
 - If I dont like the options on a poll, I can create a new option (custom).
   
-  ![MAIN](https://github.com/ashutoshmalik/votingapp/blob/master/VotingApp/public/images/first_page.gif
+  ![MAIN](https://github.com/ashutoshmalik/votingapp/blob/master/VotingApp/public/images/first_page.gif)
   
 - As an authenticated user, I can share my polls on twitter. Provide the share button.
   
