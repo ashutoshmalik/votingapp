@@ -15,8 +15,12 @@ This is a full stack JavaScript Voting App.
 - I can see and vote on respective poll. After submitting vote, the result should be updated in the chart.
 - I can delete polls that I decide I dont want anymore by clicking on remove icon (or delete button) in the list.
 - If I dont like the options on a poll, I can create a new option (custom).
-  ![MAIN](https://github.com/ashutoshmalik/votingapp/blob/master/VotingApp/public/images/voting_first_page.PNG) 
+  
+  ![MAIN](https://github.com/ashutoshmalik/votingapp/blob/master/VotingApp/public/images/voting_first_page.PNG)
+  
 - As an authenticated user, I can share my polls on twitter. Provide the share button.
-  ![GRAPH](https://github.com/ashutoshmalik/votingapp/blob/master/VotingApp/public/images/voting_second_page.PNG)
+  
+  ![GRAPH] (https://github.com/ashutoshmalik/votingapp/blob/master/VotingApp/public/images/voting_second_page.PNG)
+  
 ```  
 
