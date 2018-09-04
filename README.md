@@ -20,7 +20,7 @@ This is a full stack JavaScript Voting App.
   
 - As an authenticated user, I can share my polls on twitter. Provide the share button.
   
-  ![GRAPH] (https://github.com/ashutoshmalik/votingapp/blob/master/VotingApp/public/images/second_page.gif
+  ![GRAPH](https://github.com/ashutoshmalik/votingapp/blob/master/VotingApp/public/images/second_page.gif)
   
 ```  
 
